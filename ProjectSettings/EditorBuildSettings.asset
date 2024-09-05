@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/JMF PRO/Scenes/GameMenu.unity
+    guid: 8a088e277ace80340b2ee7bcaf132362
+  - enabled: 1
+    path: Assets/JMF PRO/Scenes/GameMap.unity
+    guid: afc2cf79111a2054e90bb8bdca962eb3
+  - enabled: 1
+    path: Assets/JMF PRO/Scenes/GamePlay.unity
+    guid: ffe042782dc3dca46a3062122c60505e
+  m_configObjects: {}
